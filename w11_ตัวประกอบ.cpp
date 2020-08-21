@@ -4,7 +4,7 @@ int main() {
 	int n,i=2;
 	printf("Enter number : ");
 	scanf("%d", &n);
-	printf("\nFactoring result : ");
+	printf("Factoring result : ");
 	while (n != 1) {
 		if (n % i == 0) {
 			n /= i;

@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<string.h>
-char ans[2000];
+char ans[2020];
 int main()
 {
 	int i = 0, x, a, len;
